@@ -128,5 +128,5 @@ Open analysis.ipynb and run all cells sequentially.
 📁 Repository Structure
 Trader-Performance-Analysis/
 │
-├── trade_snetiment_analysis.ipynb
+├── trade_sentiment_analysis.ipynb
 └── README.md
